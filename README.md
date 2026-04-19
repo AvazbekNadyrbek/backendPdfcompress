@@ -45,7 +45,7 @@ gs --version
 ### Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-squeeze-backend.git
+git clone https://github.com/AvazbekNadyrbek/backendPdfcompress.git
 cd pdf-squeeze-backend
 mvn spring-boot:run
 ```
